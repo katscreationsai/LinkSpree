@@ -1,2 +1,2 @@
 # LinkSpree
-A place for all my links
+A place for all your links
